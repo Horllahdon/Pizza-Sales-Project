@@ -29,10 +29,4 @@ Operational Performance
 ## Business Impact
 The analysis delivers strategic insights to support data-informed decision-making across marketing strategy, inventory management, menu optimization, and operational planning. Findings enable targeted improvements in customer satisfaction, cost management, and overall profitability.
 
-# View Online (No Download Required)
-Excel Analysis: [View on Google Sheets](https://docs.google.com/spreadsheets/d/1kMCS8bbFydAZjoCdVlUS9JN9Tu1Rx4c4/edit?usp=sharing&ouid=104029441346097934071&rtpof=true&sd=true)
-Presentation: [View on OneDrive](https://1drv.ms/p/c/28411809a2d58dbd/ERyShmdmwtNEnMJr5kPs7vIB4edluATxo_8sdAtyAmtRFQ?e=S7ONQt)
-
-# Downloaded Files
-Power BI Dashboard: [View on Power BI Service](https://1drv.ms/u/c/28411809a2d58dbd/ERiKbx5lA6JIkynd2Nj_UQoBDHnlSlLDjBUZMp3sGCrvAw?e=MDKahv)
 
